@@ -16,7 +16,6 @@ table{
 }
 
 .colorcell{
-	background-color:rgb(0,0,0);
-	color:white;
-	text-align: center;
+	background-color: black;
+	color: white;
 }
