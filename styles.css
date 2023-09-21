@@ -1,5 +1,21 @@
 
 /* Your CSS Code here. */
++{
+	box-sizing: border-box;
+}
 table, tr, td, th{
 	border:1px solid black;
+}
+
+table{
+	width:100%;
+}
+.bold{
+	font-weight:bolder;
+}
+
+.colorcell{
+	background:black;
+	color:white;
+	text-align: center;
 }
